@@ -1,0 +1,149 @@
+*{
+    background: #BFC1D6;
+    /* background: #D6BFC4; */
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+/* navagation bar */
+header{
+    background: #F7F7F7;
+    display: flex;
+    justify-content: flex-end;
+}
+nav{
+    padding: 20px 20px;
+    background: #F7F7F7;
+   
+}
+nav ul{
+    list-style: none;
+    background: #F7F7F7;
+}
+nav ul li{
+    display: inline;
+    /* padding: 20px 20px; */
+    margin: 0 40px;
+    background: #F7F7F7;
+    font-size: larger;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    background: #F7F7F7;
+    color: #484848;
+}
+
+
+/* The main page */
+.container{
+    display: grid;
+    margin-left: 350px;
+    margin-top: 125px;
+    margin-bottom: 20px;
+    height: 600px;
+}
+.control-bar{
+    width: 830px;
+    height: 50px;
+    background: #F7F7F7;
+}
+
+.container img{
+    background-color: #F7F7F7;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.bar-box{
+    width: 830px;
+    height: 400px;
+    position: relative;
+    background: #484848;
+    box-sizing: border-box;
+    margin-bottom:150px ;
+}
+.bar-box h1{
+    display: inline;
+    align-content: flex-end;
+    margin-left: 50px;
+    margin-top: 150px;
+    background-color: #484848;
+    color: white;
+    font-size: 4rem;
+}
+button{
+    background: #0089FF;
+    cursor: pointer;
+    padding: 15px 20px;
+    color: white;
+    border-radius: 3rem; 
+    border: none;
+    font-size: 20px;
+    margin-left: 350px;
+    margin-top: 80px;
+    
+
+}
+
+
+
+/* About section */
+section{
+    padding: 75px;
+    background-color: #F7F7F7;
+}
+.about-me{
+    height: 650px; 
+}
+
+.about-section{
+    display: flex;
+    justify-content: space-between;
+    background: #F7F7F7;
+}
+.text {
+    background-color: #F7F7F7;
+}
+.text p{
+    background-color: #F7F7F7; 
+    font-size: 30px;
+    margin-top: 20px;
+}
+.text h1{
+    background-color: #F7F7F7;
+    font-size: 60px;
+    text-align: center;
+}
+.image img{
+    width: 400px;
+    height: 400px;
+    justify-content: left;
+    margin-top: 20px;
+    
+}
+.image{
+    background: #484848;
+}
+.background{
+    width: 400px;
+    height: 400px;
+    background: #484848; 
+    
+}
+.window-1{
+    margin-top: 50px;
+    display: flex;
+}
+.window-2{
+    margin-left: 800px;
+    display: flex;
+}
+.window-1 img{
+    width: 571px;
+    height: 323px;
+    margin-top: 40px;
+    
+}

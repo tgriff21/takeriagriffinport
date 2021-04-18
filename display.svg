@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="671" height="423" viewBox="0 0 671 423">
+  <g id="display" transform="translate(-899 -2372)">
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(899 2372)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="671" height="423" stroke="none"/>
+      <rect x="0.5" y="0.5" width="670" height="422" fill="none"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(899 2372)" fill="#484848" stroke="#f7f7f7" stroke-width="1">
+      <rect width="671" height="89" stroke="none"/>
+      <rect x="0.5" y="0.5" width="670" height="88" fill="none"/>
+    </g>
+    <g id="Exit" transform="translate(743 -27)">
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="12" cy="12.5" rx="12" ry="12.5" transform="translate(185 2427)" fill="#f54848"/>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="12" cy="12.5" rx="12" ry="12.5" transform="translate(221 2427)" fill="#f7eb55"/>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="12" cy="12.5" rx="12" ry="12.5" transform="translate(257 2427)" fill="#48ff50"/>
+    </g>
+  </g>
+</svg>
